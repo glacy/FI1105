@@ -18,9 +18,4 @@ env/
 .DS_Store
 
 # dev files
-scripts/update_subtitles.py
-scripts/run_benchmark.sh
-scripts/migrate_content.py
-scripts/validate_frontmatter.py
-sessions_BKP/
-sesiones/
+.scripts/*

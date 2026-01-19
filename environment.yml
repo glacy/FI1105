@@ -1,4 +1,4 @@
-name: myst-course-starter
+name: FI1105
 channels:
   - conda-forge
 dependencies:
@@ -6,11 +6,9 @@ dependencies:
   - pandoc
   - nodejs>=20
   - git
-  # - jupyterlab
-  # - quarto
+
   - pip
   - pyyaml
   - pre-commit
   - pip:
       - mystmd
-      # - jupyter-book
