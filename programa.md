@@ -175,7 +175,7 @@ Se utilizarán tanto estrategias **formativas** (para monitorear el progreso y r
 1. Wilson, J., Buffa, A., & Lou, B. (2007). *Física* (6.ª ed.). Pearson-Prentice Hall.
 2. Cromer, A. (1996). *Física para las ciencias de la vida* (2.ª ed.). Reverté.
 3. Ortuño, M. (2019). *Física para las ciencias de la vida*. Editorial Tébar Flores. [Disponible en eLibro](https://elibro.net/es/lc/itcr/titulos/124788)
-4. Tanda, G. (2016). *Física para las ciencias de la vida*. Editorial Nobuko. [Disponible en eLibro](https://elibro.net/es/lc/itcr/titulos/77402)
+
 
 ## 8. Persona docente
 
