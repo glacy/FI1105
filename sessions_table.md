@@ -1,6 +1,6 @@
-## Tableau des séances et objectifs d'apprentissage
+## Tabla de sesiones y resultados de aprendizaje
 
-| Semaine | Titre | Objectifs d'apprentissage |
+| Semana | Título | Resultados de aprendizaje |
 |--------|--------|---------------------------|
 | 1 | Unidades y conversión de unidades | <ul><li>Distinguir entre unidades estándar y sistemas de unidades.</li><li>Enumerar las unidades fundamentales del Sistema Internacional de Unidades.</li><li>Emplear múltiplos y prefijos de unidades métricas.</li><li>Utilizar factores de conversión para convertir unidades dentro de un sistema o de un sistema de unidades a otro.</li></ul> |
 | 2 | Cinemática lineal | <ul><li>Definir distancia y calcular rapidez.</li><li>Explicar qué es una cantidad escalar.</li><li>Definir desplazamiento, rapidez, velocidad y aceleración.</li><li>Explicar las ecuaciones de cinemática para aceleración constante.</li></ul> |
