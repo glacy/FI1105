@@ -1,147 +1,130 @@
 {
-  "_jsdoc": "This is a mock syllabus for demonstration purposes. It follows the SD101 course structure.",
   "metadata": {
-    "code": "SD101",
-    "title": "Semantic Design of Academic Documents",
-    "semester": "Fall 2024 (Example)",
-    "university": "Open Academic Institute",
-    "description": "A comprehensive course on structuring, authoring, and preserving academic knowledge using modern semantic tools.",
+    "code": "FI1105",
+    "title": "Física para Biotecnología",
+    "semester": "I Semestre 2026",
+    "university": "Instituto Tecnológico de Costa Rica",
+    "description": "Planeamiento didáctico: objetivos de aprendizaje, actividades, evaluación y referencias.",
     "authors": [
-      "Syllabus Viewer"
+      "Escuela de Física"
     ]
   },
   "weeks": [
     {
       "week": 1,
-      "title": "Introduction to Semantic Writing",
-      "subtitle": "Foundations of Semantic Text",
       "content": [
-        "History of academic publishing",
-        "What is semantic text?",
-        "Separation of content and form",
-        "Introduction to plain text formats"
+        "unidades del SI",
+        "análisis dimensional",
+        "conversiones"
       ],
       "objectives": [
-        "Explain the importance of machine-readable academic documents.",
-        "Identify the core components of an academic paper."
+        "Distinguir entre unidades estándar y sistemas de unidades.",
+        "Enumerar las unidades fundamentales del Sistema Internacional de Unidades.",
+        "Emplear múltiplos y prefijos de unidades métricas.",
+        "Utilizar factores de conversión para convertir unidades dentro de un sistema o de un sistema de unidades a otro."
       ],
-      "activities": "Deconstruct a PDF paper into its semantic components (Abstract, Keywords, Sections, References) using a plain text editor.",
+      "activities": "Taller 'Física en la cocina': Estimar y convertir cantidades de recetas complejas a unidades SI.",
       "evaluation": [
         {
-          "type": "Formative",
-          "description": "Class Discussion: The longevity of PDF vs. HTML."
+          "type": "Formativa",
+          "description": "Trabajo en clase: Resolución colaborativa de problemas de conversión dimensional complejos."
         }
       ],
       "references": [
         {
-          "text": "Berners-Lee, T. (2001). The Semantic Web.",
-          "pages": "Scientific American"
+          "text": "[1] Wilson, J., Buffa, A., & Lou, B. (2007). Física (6.ª ed.). Pearson-Prentice Hall.",
+          "pages": "Secciones 1.1 a 1.5, pág. 23-25"
         }
-<<<<<<< HEAD
-      ]
-=======
       ],
       "title": "Unidades y conversión de unidades",
       "subtitle": "Sistema Internacional de Unidades"
->>>>>>> 2668fbe (version completa del curso)
     },
     {
       "week": 2,
-      "title": "Markdown & Structured Text",
-      "subtitle": "Syntax and Hierarchy",
       "content": [
-        "Markdown syntax basics",
-        "Extended syntax (tables, footnotes)",
-        "Document structure: Headers and hierarchy",
-        "Lists and logical grouping"
+        "escalares",
+        "distancia",
+        "rapidez",
+        "vectores",
+        "desplazamiento",
+        "velocidad",
+        "aceleración"
       ],
       "objectives": [
-        "Write a complete academic essay using valid Markdown syntax.",
-        "and logical heading hierarchies.",
-        "Implement complex content structures like nested lists and blockquotes."
+        "Definir distancia y calcular rapidez.",
+        "Explicar qué es una cantidad escalar.",
+        "Definir desplazamiento, rapidez, velocidad y aceleración.",
+        "Explicar las ecuaciones de cinemática para aceleración constante."
       ],
-      "activities": "Lab: Convert a legacy Word document into clean, semantic Markdown.",
+      "activities": "Rastreo de movimiento celular: Uso de software (ImageJ/Fiji) para analizar células móviles y graficar sus trayectorias.",
       "evaluation": [
         {
-          "type": "Summative",
-          "description": "Assignment 1: Submit your first semantic draft."
+          "type": "Sumativa",
+          "description": "Quiz sobre conceptos de cinemática."
         }
       ],
       "references": [
         {
-          "text": "Gruber, J. (2004). Daring Fireball: Markdown Syntax Documentation."
+          "text": "[1] Wilson, J., Buffa, A., & Lou, B. (2007). Física (6.ª ed.). Pearson-Prentice Hall.",
+          "pages": "Secciones 2.1 a 2.4, pág. 32-49"
         }
-<<<<<<< HEAD
-      ]
-=======
       ],
       "title": "Cinemática lineal",
       "subtitle": "Desplazamiento, velocidad y aceleración"
->>>>>>> 2668fbe (version completa del curso)
     },
     {
       "week": 3,
-      "title": "Metadata & Frontmatter",
-      "subtitle": "Describing Data with Metadata",
       "content": [
-        "YAML Header structure",
-        "Defining authorship and affiliation",
-        "Keywords and classification",
-        "Linking external assets"
+        "componentes vectoriales",
+        "suma vectorial",
+        "resta vectorial",
+        "producto vectorial"
       ],
       "objectives": [
-        "Embed rich metadata into documents using YAML frontmatter.",
-        "Standardize author information for citation systems.",
-        "Manage document versioning through metadata fields."
+        "Descomponer un vector en sus componentes",
+        "Realizar operaciones vectoriales (suma, resta, producto por escalar)."
       ],
-      "activities": "Workshop: Creating a unified metadata schema for a class journal.",
+      "activities": "Caza del tesoro vectorial: El estudiantado sigue instrucciones vectoriales (pasos y ángulos) para encontrar 'muestras' ocultas en el campus.",
       "evaluation": [
         {
-          "type": "Formative",
-          "description": "Peer Review: Check metadata completeness of partner's document."
+          "type": "Formativa",
+          "description": "Hoja de trabajo: Descomposición vectorial aplicada a fuerzas musculares."
         }
       ],
       "references": [
         {
-          "text": "The Dublin Core Metadata Initiative."
+          "text": "[1] Wilson, J., Buffa, A., & Lou, B. (2007). Física (6.ª ed.). Pearson-Prentice Hall.",
+          "pages": "Sección 3.2, pág. 73-80"
         }
-<<<<<<< HEAD
-      ]
-=======
       ],
       "title": "Operaciones vectoriales",
       "subtitle": "Vectores y definición de fuerza"
->>>>>>> 2668fbe (version completa del curso)
     },
     {
       "week": 4,
-      "title": "Digital Preservation & Export",
-      "subtitle": "Formats and Accessibility",
       "content": [
-        "Pandoc and document conversion",
-        "Archival formats (PDF/A, XML)",
-        "Accessibility in semantic documents",
-        "Future-proofing research"
+        "Fuerzas: tensión, peso, normal, fricción",
+        "Leyes de Newton",
+        "Diagrama de Cuerpo Libre"
       ],
       "objectives": [
-        "Convert semantic source files into various publication formats.",
-        "Ensure documents meet accessibility standards (WCAG) automatically.",
-        "Discuss strategies for long-term digital preservation."
+        "Explicar el concepto de fuerza y calcular la fuerza neta sobre un objeto.",
+        "Identificar y representar las fuerzas comunes: tensión, peso, fuerza normal y fricción.",
+        "Enunciar y aplicar las Leyes de Newton en situaciones físicas relevantes.",
+        "Construir diagramas de cuerpo libre para analizar sistemas físicos"
       ],
-      "activities": "Final Project: Build a multi-format export pipeline for a thesis chapter.",
+      "activities": "Diseño de centrífugas: Análisis de fuerzas en un tubo de ensayo giratorio.",
       "evaluation": [
         {
-          "type": "Summative",
-          "description": "Final Exam: Theoretical concepts and practical conversion tasks."
+          "type": "Formativa",
+          "description": "Reto de pizarra: Dibujar el DCL correcto para sistemas biológicos propuestos al azar."
         }
       ],
       "references": [
         {
-          "text": "Library of Congress. Sustainability of Digital Formats."
+          "text": "[1] Wilson, J., Buffa, A., & Lou, B. (2007). Física (6.ª ed.). Pearson-Prentice Hall.",
+          "pages": "Secciones 4.1 a 4.6, pág. 103-127"
         }
-<<<<<<< HEAD
-      ]
-=======
       ],
       "title": "Dinámica y Leyes de Newton",
       "subtitle": "Leyes de Newton y diagramas de cuerpo libre"
@@ -522,7 +505,6 @@
       ],
       "title": "Microscopios",
       "subtitle": "Instrumentos ópticos y resolución"
->>>>>>> 2668fbe (version completa del curso)
     }
   ]
 }
