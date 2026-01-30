@@ -70,7 +70,7 @@ $$ Re = \frac{\rho v L}{\mu} $$
 
 Calcule el $Re$ para dos organismos asumiendo que el fluido es agua ($\rho = 1000 \text{ kg/m}^3$, $\mu = 0.001 \text{ Pa}\cdot\text{s}$).
 
-1.  **Escherichia coli** (Nandador microscópico):
+1.  **Escherichia coli** (Nadador microscópico):
     *   Longitud $L = 2 \times 10^{-6} \text{ m}$.
     *   Velocidad $v = 30 \times 10^{-6} \text{ m/s}$.
 2.  **Ballena Azul** (Nadador macroscópico):

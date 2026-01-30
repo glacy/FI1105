@@ -8,7 +8,7 @@ authors:
       - Conceptualization
 keywords:
 license: CC-BY-4.0
-subject: Programa del curso - II semestre 2026 
+subject: Programa del curso - I semestre 2026 
 # downloads:
 #   - file: ./programa.pdf
 #     title: programa.pdf
